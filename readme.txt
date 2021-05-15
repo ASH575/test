@@ -1,1 +1,2 @@
-git is prett good.
+git is pretty good.
+all right.
